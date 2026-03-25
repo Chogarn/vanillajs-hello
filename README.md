@@ -1,19 +1,15 @@
 <!-- hide -->
 # Hello World with Vanilla JS
- <small>🇪🇸 [Spanish version](./README.es.md).</small>
 
-> ⚠️ This template has been deprecated, and it's not receiving any more maintenance. [Please use this one instead](https://github.com/4GeeksAcademy/vanillajs-hello-vite).
+> 🇪🇸 [Spanish version of this readme is available](./README.es.md).
 <!-- endhide -->
-
 Start coding a JS/HTML/CSS website in 30 seconds by opening this template using 4Geeks' [One-Click Coding](https://s.4geeks.com/start?repo=https://github.com/4GeeksAcademy/vanillajs-hello) or locally on your computer.
 
 ## Before you begin
 
 Install the packages by typing: `npm install`.
 
-
 ### How do I run my website to see live changes?  
-
 
 Type on the command line `$ npm run start` and type localhost on the browser.
 
@@ -28,7 +24,7 @@ It depends on the language, but you have `./src/app.js`, `./src/style.css` and `
 
 ### I don't see my changes...
 
-Everytime you change any file inside the `./src` folder the website's public URL will automatically refresh the changes (it's a process called hot deploy)
+Every time you change any file inside the `./src` folder the website's public URL will automatically refresh the changes (it's a process called hot deploy)
 Remember also to refresh cleaning the cache (`command+shift+r` on Mac, `control+shift+r` on PC & Linux)
 
 ### How do I include more images in my project?
@@ -41,13 +37,9 @@ Just add the files into the src folder and import the file/variables into your a
 
 ### How do I publish the website?
 
-This boilerplate is 100% compatible with the free GitHub pages hosting. Publish your website by running:
+We have prepared the boilerplate to be compatible with [vercel](https://vercel.com/), very easy and in just one step! 
+You can read more about [deploying on vercel here](https://4geeks.com/docs/start/deploy-vercel).
 
-```bash
-$ npm run deploy
-```
-
-Very easy and in just one step!  Push to your __main__ branch and use the free hosting that comes with [GitHub pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages), the project is ready to be published. Remember to choose to run the Github Page from your main branch.
 <!-- hide -->
 ### Thank you
 
